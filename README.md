@@ -42,7 +42,7 @@ This project consists of **five milestones**, each with a **specific due date**.
 |------------|:----:|:--------:|------------------|
 | m51 (List Food and Drink) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
 | m52 (Order Drink) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
-| m53 (Order Food) | 10% | Apr 05 | 10% penalty per day late, up to 5 days. |
+| m53 (Order Food) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
 | m54 (Display Bill) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
 | m55 (Reset, Exit, and Save Bill) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
 | m56 (Foolproofing and Bad Data File) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
