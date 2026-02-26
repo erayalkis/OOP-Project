@@ -25,43 +25,35 @@ This project consists of **five milestones**, each with a **specific due date**.
 
 ### **Final Project Mark and Due Dates**  
 
-| Milestone | Mark |  Due Date  | Submission Policy                                                                                                                       |
-| ------- | :--: | :--------: | --------------------------------------------------------------------------------------------------------------------------------------- |
-|  **MS1**  |  10% |  **Nov 1** | Mandatory to submit by **Dec 5**.<br>Full marks if submitted within **one week after the due date** (by **Nov 8**). **0% after that.**  |
-|  **MS2**  |  10% |  **Nov 6** | Mandatory to submit by **Dec 5**.<br>Full marks if submitted within **one week after the due date** (by **Nov 13**). **0% after that.** |
-|  **MS3**  |  10% | **Nov 15** | Mandatory to submit by **Dec 5**.<br>Full marks if submitted within **one week after the due date** (by **Nov 22**). **0% after that.** |
-|  **MS4**  |  10% | **Nov 22** | Mandatory to submit by **Dec 5**.<br>Full marks if submitted within **one week after the due date** (by **Nov 29**). **0% after that.** |
-|  **MS5**  |  60% | **Nov 30** | See details below.                                                                                                                      |
+| Milestone | Mark | Due Date | Submission Policy |
+|:---------:|:----:|:--------:|------------------|
+| MS1 | 10% | Mar 9 | Mandatory to submit by Apr 12.<br>Full marks awarded if submitted within one week late. **0% after the due date.** |
+| MS2 | 10% | Mar 14 | Mandatory to submit by Apr 12.<br>Full marks awarded if submitted within one week late. **0% after the due date.** |
+| MS3 | 10% | Mar 24 | Mandatory to submit by Apr 12.<br>Full marks awarded if submitted within one week late. **0% after the due date.** |
+| MS4 | 10% | Mar 30 | Mandatory to submit by Apr 12.<br>Full marks awarded if submitted within one week late. **0% after the due date.** |
+| MS5 | 60% | Apr 06 | See details below. |
 
-
-> To facilitate the final project submission and allow partial progress, **Milestone 5** is divided into **six smaller submissions**, each worth **10% of the project mark**.  
-> Your project will **only be evaluated (marked)** if you have submitted **all four milestones** and **at least one** of the six **Milestone 5** submissions.
-
+> To facilitate the final project submission and allow partial submissions, **Milestone 5** is divided into **six smaller submissions**. Each submission is worth **10% of the project mark**.  
+> **Your project will only be marked if you have submitted all four milestones and at least one of the six submissions of Milestone 5.**
 
 ### **Milestone 5 Submissions**  
 
 | Submission | Mark | Due Date | Submission Policy |
-|-----------|:----:|:--------:|-------------------|
-| **M51** (List Food and Drink) | 10% | **Nov 30** | **10% penalty per day late**, up to **5 days**. **No submissions accepted after that.** |
-| **M52** (Order Drink) | 10% | **Nov 30** | **10% penalty per day late**, up to **5 days**. **No submissions accepted after that.** |
-| **M53** (Order Food) | 10% | **Nov 30** | **10% penalty per day late**, up to **5 days**. **No submissions accepted after that.** |
-| **M54** (Display Bill) | 10% | **Nov 30** | **10% penalty per day late**, up to **5 days**. **No submissions accepted after that.** |
-| **M55** (Reset, Exit, and Save Bill) | 10% | **Nov 30** | **10% penalty per day late**, up to **5 days**. **No submissions accepted after that.** |
-| **M56** (Foolproofing and Bad Data File) | 10% | **Nov 30** | **10% penalty per day late**, up to **5 days**. **No submissions accepted after that.** |
+|------------|:----:|:--------:|------------------|
+| m51 (List Food and Drink) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
+| m52 (Order Drink) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
+| m53 (Order Food) | 10% | Apr 05 | 10% penalty per day late, up to 5 days. |
+| m54 (Display Bill) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
+| m55 (Reset, Exit, and Save Bill) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
+| m56 (Foolproofing and Bad Data File) | 10% | Apr 06 | 10% penalty per day late, up to 5 days. |
 
+> The **first four milestones** will not be marked based on code correctness but rather on **successful submission** and **timeliness**.  
+> You may modify or debug your previous code as you progress through the milestones.  
+> **Only Milestone 5 will be evaluated based on code quality.**  
 
-> The first four milestones will not be graded (marked) based on code correctness, but rather on successful submission and timeliness.  
-> You may update or debug your previous code as you progress through the milestones.  
-> Only **Milestone 5** will be evaluated based on the **code quality**.
+If you require feedback on any of the first four milestones, you must request it from your professor.
 
-### Feedback   
-Your professor may provide feedback on your first four milestones if time permits.  
-If you require feedback on any of these milestones, you must request it by booking an appointment and having your code ready in your **OOP244 private GitHub repository**, which you shared with your professor in **Workshop 0**.
-
-
-
-### **Submission Rejection Date: December 5th**  
-
+### **Submission Rejection Date: April 13th**  
 **NOTE:**  
 - Your **entire project will not receive a mark and will be considered incomplete** if **any of the first four milestones are not submitted** by the **rejection date**.  
 - For your project to be marked, you must submit **all four milestones** and at least **one of the six Milestone 5 submissions** **before the rejection date**.
