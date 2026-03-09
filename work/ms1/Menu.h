@@ -20,16 +20,13 @@ private:
    const char* content() const;
    bool hasContent() const;
 
-#ifdef SENECA_MS1
 public:
-#endif
    MenuItem(const char* content = nullptr, unsigned int indentCount = 0,
             unsigned int indentSize = 0, int row = -1);
    MenuItem(const MenuItem&) = delete;
    MenuItem& operator=(const MenuItem&) = delete;
    ~MenuItem();
 
-public:
    operator bool() const;
    std::ostream& display(std::ostream& ostr = std::cout) const;
 };
