@@ -27,7 +27,7 @@ int main() {
       cout << "Passed!" << endl;
    }
    Ordering ord("drinks.csv", "foods.csv");
-   cout << "Testing fool proofing..............................." << endl;
+  cout << "Testing fool proofint..............................." << endl;
    ord.orderDrink();
    return 0;
 }
